@@ -1,0 +1,17 @@
+.Loclist {
+    &-Icon{
+        margin: 0 5px;
+    }
+
+    &-Warning{
+        & > td:first-child{
+            box-shadow: inset 20px 0 15px -15px #f50057 ;
+        }
+       
+    }
+
+    &-Datacare{
+       background-color: #666;
+    }
+    
+}
