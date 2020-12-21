@@ -4,7 +4,8 @@
 
 clone repo local
 
-run npm i
+run npm i for /client and /backend
+
 ## Config
 
 FrontEnd and Backend need to run on different ports. Use .env for each
